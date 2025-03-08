@@ -12,6 +12,7 @@ skullKey.exe C:\Users\attacker\capture.txt
 ```
 
 ## Features
+- [ ] Bypassing AV vendors
 - [ ] Parsing SHIFT for special characters such as (;, @, !, *)
 - [ ] Handling CAPSLOCK
 - [ ] Create task using CreateTask()
