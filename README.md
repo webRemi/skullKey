@@ -15,3 +15,4 @@ skullKey.exe C:\Users\attacker\capture.txt
 - [ ] Parsing SHIFT for special characters such as (;, @, !, *)
 - [ ] Handling CAPSLOCK
 - [ ] Create task using CreateTask()
+- [ ] Handling errors for cmdline arguments
