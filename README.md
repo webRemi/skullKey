@@ -15,5 +15,5 @@ skullKey.exe C:\Users\attacker\capture.txt
 - [ ] Bypassing AV vendors
 - [ ] Parsing SHIFT for special characters such as (;, @, !, *)
 - [ ] Handling CAPSLOCK
-- [ ] Create task using CreateTask()
+- [ ] Create service using CreateService()
 - [ ] Handling errors for cmdline arguments
